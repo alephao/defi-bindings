@@ -1,0 +1,3 @@
+[submodule "lib/mev-inspect-rs"]
+	path = lib/mev-inspect-rs
+	url = git@github.com:flashbots/mev-inspect-rs.git
