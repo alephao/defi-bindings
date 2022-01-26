@@ -12,5 +12,6 @@
 package main
 
 func main() {
-	// uniswapv2.
+	// conn, _ := ethclient.Dial("rpc stuff")
+	// uni, _ := uniswapv2.NewUniswapv2(common.HexToAddress("0x0000000000000000000000000000000000000000"), conn)
 }
